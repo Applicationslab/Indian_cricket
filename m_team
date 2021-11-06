@@ -1,0 +1,41 @@
+[{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/england-5.png",
+		"teamUrl": "England Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/india-6.png",
+		"teamUrl": "India Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/australia-7.png",
+		"teamUrl": "Australia Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/bangladesh-2114.png",
+		"teamUrl": "Bangladesh Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/new-zealand-2115.png",
+		"teamUrl": "New Zealand Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/pakistan-2116.png",
+		"teamUrl": "Pakistan Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/south-africa-2117.png",
+		"teamUrl": "South Africa Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/sri-lanka-2118.png",
+		"teamUrl": "Sri Lanka Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/west-indies-2119.png",
+		"teamUrl": "West Indies Cricket"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/120/zimbabwe-2120.png",
+		"teamUrl": "Zimbabwe Cricket"
+	}
+]
