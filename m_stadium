@@ -1,5 +1,13 @@
 [{
-		"stadiumImage": "https://www.zerocric.com/wp-content/uploads/2020/01/National-stadium-karachi-Zerocric.jpeg",
-		"stadiumName": "National Stadium, Karachi"
-	}
-]
+	"stadiumImage": "https://p.imgci.com/db/PICTURES/CMS/82200/82249.3.jpg",
+	"stadiumName": "SuperSport Park"
+}, {
+	"stadiumImage": "https://p.imgci.com/db/PICTURES/CMS/86100/86109.2.jpg",
+	"stadiumName": "The Wanderers Stadium"
+}, {
+	"stadiumImage": "https://p.imgci.com/db/PICTURES/CMS/50600/50681.1.jpg",
+	"stadiumName": "Newlands"
+}, {
+	"stadiumImage": "https://img.cricketworld.com/images/f-070624/boland-park---paarl-rocks.jpg",
+	"stadiumName": "Boland Park"
+}]
