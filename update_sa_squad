@@ -1,0 +1,101 @@
+[{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157353/dean-elgar.jpg",
+		"playerName": "Dean Elgar (C)",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157823/temba-bavuma.jpg",
+		"playerName": "Temba Bavuma",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156934/sarel-erwee.jpg",
+		"playerName": "Sarel Erwee",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170645/aiden-markram.jpg",
+		"playerName": "Aiden Markram",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/keegan-petersen.jpg",
+		"playerName": "Keegan Petersen",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170691/rassie-van-der-dussen.jpg",
+		"playerName": "Rassie van der Dussen",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/george-linde.jpg",
+		"playerName": "George Linde",
+		"playerStyle": "Batting Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156946/wiaan-mulder.jpg",
+		"playerName": "Wiaan Mulder",
+		"playerStyle": "Bowling Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/marco-jansen.jpg",
+		"playerName": "Marco Jansen",
+		"playerStyle": "Bowling Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157817/prenelan-subrayen.jpg",
+		"playerName": "Prenelan Subrayen",
+		"playerStyle": "Bowling Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170698/quinton-de-kock.jpg",
+		"playerName": "Quinton de Kock",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/kyle-verreynne.jpg",
+		"playerName": "Kyle Verreynne",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/ryan-rickelton.jpg",
+		"playerName": "Ryan Rickelton",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170759/kagiso-rabada.jpg",
+		"playerName": "Kagiso Rabada",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157349/beuran-hendricks.jpg",
+		"playerName": "Beuran Hendricks",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156935/keshav-maharaj.jpg",
+		"playerName": "Keshav Maharaj",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170761/lungi-ngidi.jpg",
+		"playerName": "Lungi Ngidi",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/glenton-stuurman.jpg",
+		"playerName": "Glenton Stuurman",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/sisanda-magala.jpg",
+		"playerName": "Sisanda Magala",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157826/duanne-olivier.jpg",
+		"playerName": "Duanne Olivier",
+		"playerStyle": "Bowler"
+	}
+]
