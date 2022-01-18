@@ -1,91 +1,86 @@
 [{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c170661/virat-kohli.jpg",
-		"playerName": "Virat Kohli (Captain)",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157823/temba-bavuma.jpg",
+		"playerName": "Temba Bavuma (Captain)",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c171091/mayank-agarwal.jpg",
-		"playerName": "Mayank Agarwal",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/zubayr-hamza.jpg",
+		"playerName": "Zubayr Hamza",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c153263/cheteshwar-pujara.jpg",
-		"playerName": "Cheteshwar Pujara",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/janneman-malan.jpg",
+		"playerName": "Janneman Malan",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c171082/ajinkya-rahane.jpg",
-		"playerName": "Ajinkya Rahane",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170645/aiden-markram.jpg",
+		"playerName": "Aiden Markram",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c171024/shreyas-iyer.jpg",
-		"playerName": "Shreyas Iyer",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170687/david-miller.jpg",
+		"playerName": "David Miller",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c174146/priyank-panchal.jpg",
-		"playerName": "Priyank Panchal",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170691/rassie-van-der-dussen.jpg",
+		"playerName": "Rassie van der Dussen",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c171080/hanuma-vihari.jpg",
-		"playerName": "Hanuma Vihari",
-		"playerStyle": "Batting Allrounder"
-	},
-	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c153372/ravichandran-ashwin.jpg",
-		"playerName": "Ravichandran Ashwin",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/marco-jansen.jpg",
+		"playerName": "Marco Jansen",
 		"playerStyle": "Bowling Allrounder"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c170673/kl-rahul.jpg",
-		"playerName": "KL Rahul",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c154609/wayne-parnell.jpg",
+		"playerName": "Wayne Parnell",
+		"playerStyle": "Bowling Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170694/andile-phehlukwayo.jpg",
+		"playerName": "Andile Phehlukwayo",
+		"playerStyle": "Bowling Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170695/dwaine-pretorius.jpg",
+		"playerName": "Dwaine Pretorius",
+		"playerStyle": "Bowling Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170698/quinton-de-kock.jpg",
+		"playerName": "Quinton de Kock",
 		"playerStyle": "WK-Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c171010/rishabh-pant.jpg",
-		"playerName": "Rishabh Pant",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/kyle-verreynne.jpg",
+		"playerName": "Kyle Verreynne",
 		"playerStyle": "WK-Batsman"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c171058/wriddhiman-saha.jpg",
-		"playerName": "Wriddhiman Saha",
-		"playerStyle": "WK-Batsman"
-	},
-	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c174146/jayant-yadav.jpg",
-		"playerName": "Jayant Yadav",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156935/keshav-maharaj.jpg",
+		"playerName": "Keshav Maharaj",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c154520/ishant-sharma.jpg",
-		"playerName": "Ishant Sharma",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/sisanda-magala.jpg",
+		"playerName": "Sisanda Magala",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c170684/mohammed-shami.jpg",
-		"playerName": "Mohammed Shami",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170761/lungi-ngidi.jpg",
+		"playerName": "Lungi Ngidi",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c153874/umesh-yadav.jpg",
-		"playerName": "Umesh Yadav",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170759/kagiso-rabada.jpg",
+		"playerName": "Kagiso Rabada",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c170685/jasprit-bumrah.jpg",
-		"playerName": "Jasprit Bumrah",
-		"playerStyle": "Bowler"
-	},
-	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c216092/shardul-thakur.jpg",
-		"playerName": "Shardul Thakur",
-		"playerStyle": "Bowler"
-	},
-	{
-		"playerImageIcon": "https://www..com/a/img/v1/75x75/i1/c171039/mohammed-siraj.jpg",
-		"playerName": "Mohammed Siraj",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170774/tabraiz-shamsi.jpg",
+		"playerName": "Tabraiz Shamsi",
 		"playerStyle": "Bowler"
 	}
 ]
