@@ -1,7 +1,7 @@
 [{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png",
 		"TeamName": "India",
-		"teamPlayers": "Players: 16",
+		"teamPlayers": "Players: 21",
 		"teamUrl": "https://raw.githubusercontent.com/Applicationslab/Indian_cricket/master/update_ind_squad"
 	},
 	{
