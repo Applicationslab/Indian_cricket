@@ -1,75 +1,80 @@
 [{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170790/darren-bravo.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170790/darren-bravo.jpg",
 		"playerName": "Darren Bravo",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c152745/shamarh-brooks.jpg",
-		"playerName": "Shamarh Brooks",
-		"playerStyle": "Batsman"
-	},
-	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c181652/brandon-king.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c181652/brandon-king.jpg",
 		"playerName": "Brandon King",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c226283/kieron-pollard.jpg",
-		"playerName": "Kieron Pollard",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c146355/rovman-powell.jpg",
+		"playerName": "Rovman Powell",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226283/kieron-pollard.jpg",
+		"playerName": "Kieron Pollard (C)",
 		"playerStyle": "Batting Allrounder"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170794/fabian-allen.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170794/fabian-allen.jpg",
 		"playerName": "Fabian Allen",
 		"playerStyle": "Batting Allrounder"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c152651/nkrumah-bonner.jpg",
-		"playerName": "Nkrumah Bonner",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157855/kyle-mayers.jpg",
+		"playerName": "Kyle Mayers",
 		"playerStyle": "Batting Allrounder"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170806/jason-holder.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152747/roston-chase.jpg",
+		"playerName": "Roston Chase",
+		"playerStyle": "Bowling Allrounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170806/jason-holder.jpg",
 		"playerName": "Jason Holder",
 		"playerStyle": "Bowling Allrounder"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170814/shai-hope.jpg",
-		"playerName": "Shai Hope",
-		"playerStyle": "WK-Batsman"
-	},
-	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170810/nicholas-pooran.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170810/nicholas-pooran.jpg",
 		"playerName": "Nicholas Pooran",
 		"playerStyle": "WK-Batsman"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157223/akeal-hosein.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170814/shai-hope.jpg",
+		"playerName": "Shai Hope",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170828/sheldon-cottrell.jpg",
+		"playerName": "Sheldon Cottrell",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226329/dominic-drakes.jpg",
+		"playerName": "Dominic Drakes",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157223/akeal-hosein.jpg",
 		"playerName": "Akeal Hosein",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c152877/alzarri-joseph.jpg",
-		"playerName": "Alzarri Joseph",
-		"playerStyle": "Bowler"
-	},
-	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170820/kemar-roach.jpg",
-		"playerName": "Kemar Roach",
-		"playerStyle": "Bowler"
-	},
-	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c226370/romario-shepherd.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226370/romario-shepherd.jpg",
 		"playerName": "Romario Shepherd",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c226368/odean-smith.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c226368/odean-smith.jpg",
 		"playerName": "Odean Smith",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c181653/hayden-walsh.jpg",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c181653/hayden-walsh.jpg",
 		"playerName": "Hayden Walsh",
 		"playerStyle": "Bowler"
 	}
