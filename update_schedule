@@ -3,43 +3,7 @@
 		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png",
 		"firstTeamName": "India",
 		"secondTeamName": "West Indies",
-		"matchDate": "IND won by 6 wickets",
-		"matchNo": "Ahmedabad",
-		"totalMatch": "ODI 1 of 3",
-		"seriesName": "West Indies tour of India",
-		"matchUrl": "https://www.google.com/search?q=West+Indies+tour+of+India%2C+2022&oq=West+Indies+tour+of+India%2C+2022&aqs=chrome..69i57j69i60.634j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11rckw8kd5;5;/m/021q23;dt;fp;1;;"
-
-	},
-	{
-		"firstTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png",
-		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png",
-		"firstTeamName": "India",
-		"secondTeamName": "West Indies",
-		"matchDate": "Feb 9, 07:30 AM",
-		"matchNo": "Ahmedabad",
-		"totalMatch": "ODI 2 of 3",
-		"seriesName": "West Indies tour of India",
-		"matchUrl": "https://www.google.com/search?q=West+Indies+tour+of+India%2C+2022&oq=West+Indies+tour+of+India%2C+2022&aqs=chrome..69i57j69i60.634j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11rckw5xl3;5;/m/021q23;dt;fp;1;;"
-
-	},
-	{
-		"firstTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png",
-		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png",
-		"firstTeamName": "India",
-		"secondTeamName": "West Indies",
-		"matchDate": "Feb 12, 07:30 AM",
-		"matchNo": "Ahmedabad",
-		"totalMatch": "ODI 3 of 3",
-		"seriesName": "West Indies tour of India",
-		"matchUrl": "https://www.google.com/search?q=West+Indies+tour+of+India%2C+2022&oq=West+Indies+tour+of+India%2C+2022&aqs=chrome..69i57j69i60.634j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11p5fy2vmn;5;/m/021q23;dt;fp;1;;"
-
-	},
-	{
-		"firstTeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png",
-		"secondTeamImage": "https://upload.wikimedia.org/wikipedia/en/9/9b/Cricket_West_Indies_Logo_2017.png",
-		"firstTeamName": "India",
-		"secondTeamName": "West Indies",
-		"matchDate": "Feb 15, 1:30 PM",
+		"matchDate": "Feb 16, 1:30 PM",
 		"matchNo": "Kolkata",
 		"totalMatch": "T20 1 of 3",
 		"seriesName": "West Indies tour of India",
