@@ -1,7 +1,27 @@
 [{
-	"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
-	"stadiumName": "Narendra Modi Stadium"
-}, {
-	"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
-	"stadiumName": "Eden Gardens"
-}]
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "The Rose Bowl"
+	}, {
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "Edgbaston"
+	}, {
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "Trent Bridge"
+	}, {
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "Kennington Oval"
+	}, {
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "Lord's"
+	}, {
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "Emirates Old Trafford"
+	},
+	{
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "Grace Road"
+	}, {
+		"stadiumImage": "https://i.ibb.co/sRj6Cz5/stadium.png",
+		"stadiumName": "County Ground"
+	}
+]
