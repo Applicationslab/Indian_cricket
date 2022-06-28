@@ -1,0 +1,76 @@
+[{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156831/harry-brook.jp",
+		"playerName": "Harry Brook",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180932/zak-crawley.jp",
+		"playerName": "Zak Crawley",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/alex-lees.jp",
+		"playerName": "Alex Lees",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170942/joe-root.jp",
+		"playerName": "Joe Root",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170950/ben-stokes.jp",
+		"playerName": "Ben Stokes (C)",
+		"playerStyle": "All-Rounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156179/craig-overton.jp",
+		"playerName": "Craig Overton",
+		"playerStyle": "All-Rounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/jamie-overton.jp",
+		"playerName": "Jamie Overton",
+		"playerStyle": "All-Rounder"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170976/jonny-bairstow.jp",
+		"playerName": "Jonny Bairstow",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156173/sam-billings.jp",
+		"playerName": "Sam Billings",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/ben-foakes.jp",
+		"playerName": "Ben Foakes",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180934/ollie-pope.jp",
+		"playerName": "Ollie Pope",
+		"playerStyle": "WK-Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c173031/james-anderson.jp",
+		"playerName": "James Anderson",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c157663/stuart-broad.jp",
+		"playerName": "Stuart Broad",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c178391/jack-leach.jp",
+		"playerName": "Jack Leach",
+		"playerStyle": "Bowler"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/matty-potts.jp",
+		"playerName": "Matty Potts",
+		"playerStyle": "Bowler"
+	}
+]
