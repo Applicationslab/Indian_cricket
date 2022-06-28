@@ -1,91 +1,86 @@
 [{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170658/rohit-sharma.jp",
 		"playerName": "Rohit Sharma (C)",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171042/shubman-gill.jp",
+		"playerName": "Shubman Gill",
+		"playerStyle": "Batsman"
+	},
+	{
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170661/virat-kohli.jp",
 		"playerName": "Virat Kohli",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171024/shreyas-iyer.jp",
 		"playerName": "Shreyas Iyer",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Suryakumar Yadav",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c153263/cheteshwar-pujara.jp",
+		"playerName": "Cheteshwar Pujara",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Ruturaj Gaikwad",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171091/mayank-agarwal.jp",
+		"playerName": "Mayank Agarwal",
 		"playerStyle": "Batsman"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Venkatesh Iyer",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171080/hanuma-vihari.jp",
+		"playerName": "Hanuma Vihari",
 		"playerStyle": "Batting Allrounder"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Deepak Hooda",
-		"playerStyle": "Batting Allrounder"
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170670/ravindra-jadeja.jp",
+		"playerName": "Ravindra Jadeja",
+		"playerStyle": "Bowling Allrounder"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Ishan Kishan",
-		"playerStyle": "WK-Batsman"
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c153372/ravichandran-ashwin.jp",
+		"playerName": "Ravichandran Ashwin",
+		"playerStyle": "Bowling Allrounder"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171010/rishabh-pant.jp",
 		"playerName": "Rishabh Pant (Keeper)",
 		"playerStyle": "WK-Batsman"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Deepak Chahar",
-		"playerStyle": "Bowler"
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c226437/srikar-bharat.jp",
+		"playerName": "Srikar Bharat",
+		"playerStyle": "WK-Batsman"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c226224/shardul-thakur.jp",
 		"playerName": "Shardul Thakur",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Ravi Bishnoi",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170684/mohammed-shami.jp",
+		"playerName": "Mohammed Shami",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Yuzvendra Chahal",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170685/jasprit-bumrah.jp",
+		"playerName": "Jasprit Bumrah",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171039/mohammed-siraj.jp",
 		"playerName": "Mohammed Siraj",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Bhuvneshwar Kumar",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c153874/umesh-yadav.jp",
+		"playerName": "Umesh Yadav",
 		"playerStyle": "Bowler"
 	},
 	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Avesh Khan",
-		"playerStyle": "Bowler"
-	},
-	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Harshal Patel",
-		"playerStyle": "Bowler"
-	},
-	{
-		"playerImageIcon": "https://cdn-icons-png.flaticon.com/512/2748/2748558.png",
-		"playerName": "Kuldeep Yadav",
+		"playerImageIcon": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c167341/prasidh-krishna.jp",
+		"playerName": "Prasidh Krishna",
 		"playerStyle": "Bowler"
 	}
 ]
